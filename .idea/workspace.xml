@@ -1,14 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd94c6d-e99b-4843-9190-1fe42ee0a2e3" name="Changes" comment="" />
+    <list default="true" id="cdd94c6d-e99b-4843-9190-1fe42ee0a2e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C1/q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Answers/C2/q9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2Tzv4ssd7N8GzEya2CCHoV2wobi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,20 +75,91 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.q1">
+    <configuration name="q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answers.C1.q1" />
       <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answers.C1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answers.C1.q11" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answers.C1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answers.C1.q12" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answers.C1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answers.C1.q8" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answers.C1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Answers.C1.q9" />
+      <module name="JavaLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answers.C1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.q1" />
+        <item itemvalue="Application.q12" />
+        <item itemvalue="Application.q11" />
+        <item itemvalue="Application.q9" />
+        <item itemvalue="Application.q8" />
       </list>
     </recent_temporary>
   </component>
@@ -42,7 +171,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692058536750</updated>
+      <workItem from="1692059388958" duration="3641000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
